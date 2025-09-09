@@ -45,11 +45,11 @@ Confira a lista completa: [Backlog do Produto](https://github.com/omatheusgomes/
 
 | Sprint | Período | Documentação | Objetivo |
 |--------|---------|--------------|-------|
-| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-1) | Elaboração dos casos de uso, baseado no backlog do produto. |
-| **SPRINT 2** | 26/08 - 02/09 | [📄 Sprint 2 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-2) | Definição das classes do sistema, baseados nos casos de uso. |
-| **SPRINT 3** | 02/09 - 09/09 | [📄 Sprint 3 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-3) | Criação dos diagramas de sequência, representando as operações do usuário. |
-| **SPRINT 4** | 09/09 - 16/09 | [📄 Sprint 4 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-4) | *(a definir)* |
-| **SPRINT 5** | 16/09 - 23/09 | [📄 Sprint 5 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-5) | *(a definir)* |
+| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/p1Neli/pim4/tree/main/documentacao/processo/sprints/sprint1) | Elaboração dos casos de uso, baseado no backlog do produto. |
+| **SPRINT 2** | 26/08 - 02/09 | [📄 Sprint 2 Docs](https://github.com/p1Neli/pim4/tree/main/documentacao/processo/sprints/sprint2) | Definição das classes do sistema, baseados nos casos de uso. |
+| **SPRINT 3** | 02/09 - 09/09 | [📄 Sprint 3 Docs](https://github.com/p1Neli/pim4/tree/main/documentacao/processo/sprints/sprint3) | Criação dos diagramas de sequência, representando as operações do usuário. |
+| **SPRINT 4** | 09/09 - 16/09 | [📄 Sprint 4 Docs](https://github.com/p1Neli/pim4/tree/main/documentacao/processo/sprints/sprint4) | *(a definir)* |
+| **SPRINT 5** | 16/09 - 23/09 | [📄 Sprint 5 Docs](https://github.com/p1Neli/pim4/tree/main/documentacao/processo/sprints/sprint5) | *(a definir)* |
 
 <h2 id="tec">⚙️ Tecnologias</h2>
 
@@ -66,7 +66,7 @@ Confira a lista completa: [Backlog do Produto](https://github.com/omatheusgomes/
 
 <h2 id="doc">📂 Documentação</h2>
 
-Toda a documentação do projeto está organizada na pasta [documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
+Toda a documentação do projeto está organizada na pasta [documentacao](https://github.com/p1Neli/pim4/tree/main/documentacao).
 
 - [Backlog do Produto](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/product-backlog) *(em desenvolvimento)* 
 - [Backlog das Sprints](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/sprints-backlog) *(em desenvolvimento)*   
