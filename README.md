@@ -37,7 +37,6 @@ O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguin
 |  2   | Alta       | Como atendente ou sistema IA, desejo classificar automaticamente os chamados para acelerar o atendimento. |  13 | 1 | R02 | 🔄 |
 |  3   | Alta       | Como atendente ou sistema IA, desejo priorizar os chamados com base na urgência e impacto. |  8  | 1 | R03 | 🔄 |
 
-Confira a lista completa: [Backlog do Produto](https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/processo/backlogs/Backlog_do_Produto.md)
 
 ---
 
